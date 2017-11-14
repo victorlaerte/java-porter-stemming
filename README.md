@@ -1,2 +1,2 @@
-# kotlin-porter-stemming
+# java-porter-stemming
 https://tartarus.org/martin/PorterStemmer/
